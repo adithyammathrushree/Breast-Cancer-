@@ -1,0 +1,31 @@
+Radius Mean 23.012
+Texture Mean 25.100
+Perimeter Mean 123
+Area Mean 28.3
+Smoothness Mean 53.11
+Compactness Mean 43.21
+Concavity Mean 34.42
+Concave Points Mean 22.11
+Symmetry Mean 89.11
+Fractal Dimension Mean 98.22
+Radius SE 33
+Texture SE 42.1
+Perimeter SE 9.83
+Area SE 4.85
+Smoothness SE 88.55
+Compactness SE 44.1
+Concavity SE 222
+Concave Points SE 18.6
+Symmetry SE |
+Fractal Dimension SE 11.12
+Radius Worst 55.12
+Texture Worst 76.11
+Perimeter Worst 62.3
+Area Worst 77.53
+Smoothness Worst 51.235
+Compactness Worst 62.12
+Concavity Worst 93.2
+Concave Points Worst 232
+Symmetry Worst 312.54
+Fractal Dimension Worst 86.23
+
